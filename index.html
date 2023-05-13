@@ -10,16 +10,16 @@
       <tr>
         <td><img src="images/Yiyu Qian's photo.jpg" height = "200" width = "200" alt="Yiyu picture"></td>
         <td><h1>Yiyu Qian</h1>
-        <p> I am a CS graduate student with 6 years of coding experience, especially in Python. I conducted 
-          academic research and completed several project development at the university. My hobbies are 
-          reading novels, doing sports, and writing Chinese calligraphy. I am strongly familiar with software 
-          development lifecycle and programming paradigms. I have deep understanding in data structure and 
-          algorithm, in particular how they are implemented and how to apply them to solve problems. I am 
-          proficient in performing runtime analysis on programs and improving API's efficiency. I am good at 
-          making multi-culture communications with clients, solving challenging technical problems, managing 
-          large databases, and writing quality code. I am committed to working as a cooperative and 
-          motivated team member, striving to utilise knowledge and expertise to obtain the best engineering 
-          results. 😊😊😊</p></td>
+        <p> 6 years of coding experience in Python and 2 years of development experience in React. I completed several project 
+          development and conducted research at industry and university. I am strongly familiar with software 
+          development lifecycle, CI/CD pipeline, and programming paradigms. I have deep understanding in 
+          data structure and algorithm, in particular how they are implemented and how to apply them to 
+          solve problems. I am proficient in performing runtime analysis on APIs and improving quality of 
+          software. I am good at making multi-culture communications with clients, solving challenging 
+          technical problems, managing large databases, and writing quality code. I am committed to working 
+          as a cooperative and motivated team member, striving to utilise knowledge and expertise to obtain 
+          the best engineering results. My hobbies are reading novels, doing sports, and writing Chinese 
+          calligraphy. 😊😊😊</p></td>
       </tr>
       <tr>
         <td>
@@ -67,14 +67,14 @@
           <li>
             Python (😊Strong Proficiency)
             <ul>
-              Object-oriented programming, Functional programming,Socket programming, <br>
-              Multithreading/Multiprocessing, Regular Expression, Pandas, NumPy, Matplotlib, <br>
-              Selenium, SQLAlchemy, Psycopg2, OpenAI Gym, Pygame, Pytorch, Scikit-learn <br>
+              Object-oriented programming, Functional programming, Socket programming, Multithreading/Multiprocessing <br>
+              Regular Expression, Pandas, NumPy, Matplotlib, Seaborn, Selenium, Requests, Urllib, Beautiful Soup <br>
+              SQLAlchemy, Psycopg2, OpenAI Gym, Pygame, Pytest, OpenCV, Pytorch, Scikit-learn <br>
             </ul>
           </li>
           <li>C/C++</li>
           <li>SQL</li>
-          <li>HTML/CSS/Javascript</li>
+          <li>HTML/CSS/JavaScript/TypeScript</li>
         </ul>
       </li>
       <br>
@@ -85,21 +85,30 @@
         </ul>
       </li>
       <br>
-      <li>Web Development: 
+      <li>Software Platform: 
         <ul>
           <li>Amazon Web Service (AWS)</li>
           <li>Docker</li>
-          <li>Python Django</li>
-          <li>Python Dash</li>
-          <li>React</li>
         </ul>
       </li>
       <br>
+      <li>Web Development: 
+        <ul>
+          <li>Django</li>
+          <li>Dash</li>
+          <li>React</li>
+          <li>Bootstrap</li>
+          <li>jQuery</li>
+        </ul>
+      </li>
+
       <li>Databases: 
         <ul>
           <li>MySQL</li>
           <li>PostgreSQL</li>
           <li>NoSQL</li>
+          <li>MongoDB</li>
+          <li>Redis</li>
         </ul>
       </li>
       <br>
